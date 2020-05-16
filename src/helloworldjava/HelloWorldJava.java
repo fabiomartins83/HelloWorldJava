@@ -3,17 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-//Java visual com swing import javax.swing.JFrame;  
-// classe JFrame import javax.swing.JLabel;  
-// classe JLabel public 
 package helloworldjava;
 
 /**
  *
  * @author Fábio de Almeida Martins
  */
-
-import javax.swing.*;
 
 public class HelloWorldJava {
 
@@ -22,14 +17,7 @@ public class HelloWorldJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //JFrame frame = new JFrame();           //criando frame
-        //frame.setTitle("Hi!");                 //título do frame
-        //frame.add(new JLabel("Hello, world!"));//adicionando texto ao frame
-        //frame.pack();                          //tamanho para smallest
-        //frame.setLocationRelativeTo(null);     //entralizando frame
-        //frame.setVisible(true);                //exibindo frame
         System.out.println("Hello World!!!");
-        //linha modificada para teste de git push
     }
     
 }
